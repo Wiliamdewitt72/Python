@@ -1,8 +1,9 @@
-#Learn
+# Learn
+
 En este repositorio estarán guardadas notas y código de los lenguajes que vaya aprendiendo, además de conceptos de programación como algoritmos, métodos, buenas practicas, etc.
----
-##Ruta de aprendizaje de lenguaje de programación
----
+
+---------
+## Ruta de aprendizaje de lenguaje de programación
 ### Básico
 * Variables
 * Operadores
@@ -22,6 +23,7 @@ En este repositorio estarán guardadas notas y código de los lenguajes que vaya
   * Tuplas 
   * Arrays
   * Listas
+  * 
 * Modulos y paquetes
 * Manejo de errores
 * POO
