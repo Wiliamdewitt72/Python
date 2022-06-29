@@ -7,7 +7,7 @@ En este repositorio estarán guardadas notas y código de los lenguajes que vaya
 ### Básico
 * Variables
 * Operadores
-* Recibir datos
+* Recibir datos (Input)
 * Estructuras de control
   * Condicionales
     * if/else
