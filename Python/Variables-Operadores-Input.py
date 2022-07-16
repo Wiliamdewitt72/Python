@@ -5,7 +5,6 @@ print("Hello world!")
 
 sum = 1 + 2
 #Las variables pueden almacenar lo que sea, hasta returns de funciones.
-
 producto = sum * 2
 producto = producto + producto
 #También estar definidas mediante otras variables o redefinirse.
